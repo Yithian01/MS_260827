@@ -1,9 +1,9 @@
 #include "Bore.h"
 
-Bore::Bore()
+ABore::ABore()
 {
 }
 
-Bore::~Bore()
+ABore::~ABore()
 {
 }

@@ -1,11 +1,11 @@
 #pragma once
 #include "Character.h"
 
-class Bore : ACharacter
+class ABore : ACharacter
 {
 public:
-	Bore();
+	ABore();
 
-	~Bore();
+	~ABore();
 };
 

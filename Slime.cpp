@@ -7,5 +7,4 @@ Slime::Slime()
 
 Slime::~Slime()
 {
-
 }
