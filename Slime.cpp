@@ -1,10 +1,9 @@
 #include "Slime.h"
 
-Slime::Slime()
+ASlime::ASlime()
 {
-	
 }
 
-Slime::~Slime()
+ASlime::~ASlime()
 {
 }

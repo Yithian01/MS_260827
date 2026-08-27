@@ -1,11 +1,10 @@
 #pragma once
 #include "Monster.h"
 
-class ABoar : AMonster
+class ABoar : public AMonster
 {
 public:
 	ABoar();
 
 	~ABoar();
 };
-
